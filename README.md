@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/c74cbfd8-9b06-4d74-9ca9-5db2c65ec0df) and start prompting.
+Simply visit the [Lovable Project](https://yaswanthpasara.github.io/My-Portfolio-WebSite/) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
